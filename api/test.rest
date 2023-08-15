@@ -1,0 +1,7 @@
+POST http://localhost:3050/todos/new
+
+Content-Type: application/json
+
+{
+    "text" : "GET SOMETHING"
+}
