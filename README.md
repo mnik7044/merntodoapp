@@ -32,19 +32,19 @@ Welcome to the MERN Todo App! This is a simple yet powerful application built us
 
 ## Starting the Application
 
-3. **Start the frontend:**
+1. **Start the frontend:**
    
    Navigate to the `client` directory and run:
 
    
    `npm start`
 
- 4.**Start the backend:**
+ 2.**Start the backend:**
    
    Navigate to the `api` directory and run:
 
    
    `npm start`
 
-5. **Accessing the App**
+3. **Accessing the App**
    Open your web browser and go to http://localhost:3000 to use the Todo app.
