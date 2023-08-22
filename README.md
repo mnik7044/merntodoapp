@@ -4,6 +4,11 @@ Welcome to the MERN Todo App! This is a simple yet powerful application built us
 
 ## About & Features
 
+![image](https://github.com/mnik7044/merntodoapp/assets/108953684/ae1fc796-9f9c-49cd-ab45-984fa7183596)
+![image](https://github.com/mnik7044/merntodoapp/assets/108953684/45976627-f255-4678-b856-808c2058ef69)
+
+
+
 - Create new tasks with due dates and descriptions.
 - Mark tasks as completed or pending.
 - Edit task details and update their statuses.
