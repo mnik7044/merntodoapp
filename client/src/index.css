@@ -88,3 +88,86 @@ h4{
   align-items: center;
   justify-content: center;
 }
+
+.addPopup{
+  position: fixed;
+  bottom : 32px;
+  right: 32px;
+  display: flex;
+  align-items : center;
+  justify-content: center;
+
+  width: 64px;
+  height: 64px;
+  border-radius: 999px;
+  font-size: 45px;
+  font-weight: 900;
+  color: var(--light);
+  background-image: linear-gradient(to bottom right, var(--primary), var(--secondary));
+  cursor: pointer;
+}
+
+.popup{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 100%;
+  max-width: 400px;
+  background-color: var(--light);
+  padding: 32px;
+  border-radius: 16px;
+}
+
+.closePopup{
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  height: 20px;
+  width: 20px;
+  font-size: 16pxx;
+  max-width: 400px;
+  color: var(--light);
+  cursor: pointer;
+  display: flex;
+  align-items : center;
+  justify-content: center;
+  background-color: var(--primary);
+  border-radius: 50%;
+
+}
+
+.popup h3{
+  color: var(--dark);
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+
+.add-todo-input {
+  appearance: none;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  padding: 16px ;
+  border-radius: 16px;
+  width: 100%;
+  font-size: 18px;
+}
+
+.button{
+  padding: 16px 32px ;
+  border-radius: 99px;
+  background-image: linear-gradient(to right, var(--primary), var(--secondary));
+  display: inline-block;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-top: 16px;
+  margin-top: center;
+  cursor: pointer;
+
+}
+
+
