@@ -2,7 +2,7 @@
 
 Welcome to the MERN Todo App! This is a simple yet powerful application built using the MERN stack (MongoDB, Express, React, Node.js). With this app, you can easily manage your tasks and stay organized.
 
-## Features
+## About & Features
 
 - Create new tasks with due dates and descriptions.
 - Mark tasks as completed or pending.
