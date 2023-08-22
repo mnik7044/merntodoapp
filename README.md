@@ -39,7 +39,7 @@ Welcome to the MERN Todo App! This is a simple yet powerful application built us
    
    `npm start`
 
-2.**Start the backend:**
+2. **Start the backend:**
    
    Navigate to the `api` directory and run:
 
