@@ -10,7 +10,7 @@ Welcome to the MERN Todo App! This is a simple yet powerful application built us
 
 ## About
 
-- Create new tasks with due dates and descriptions.
+- Create new tasks with descriptions.
 - Mark tasks as completed or pending.
 - Delete tasks you no longer need.
 - User-friendly interface with real-time updates.
